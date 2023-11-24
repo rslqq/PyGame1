@@ -22,4 +22,3 @@ while pygame.event.wait().type != pygame.QUIT:
     pygame.display.flip()
 
 pygame.quit()
-
